@@ -32,7 +32,7 @@ public interface IntArrayBagInterface {
      * the capacity double the capacity of the bag
      * @param arrayBag
      */
-    void addAll(IntArrayBagInterface arrayBag);
+    //public void addAll(IntArrayBag addend) copy this, there's issues with exteding it
 
     /**
      * add a variable number of new elements to this bag.
