@@ -45,6 +45,7 @@ public class Driver {
             else
             {
                 System.out.println("removing that age");
+                ages.remove(userInput);
             }
         }
     }
